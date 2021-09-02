@@ -945,10 +945,10 @@
       },
       "links": {},
       "address": "0x6EEb83039561666e39dFd95C8146A8FA0d4d51e4",
-      "transactionHash": "0xeab3b5c2e241ad26cd3a7acb9b65525311aba9e244a5721728ede8c6882fd5dc"
+      "transactionHash": "0xc542e6afc3eb32c4cc7837e44aded0f767940d1593c72890d16c101dcb45ca7f"
     }
   },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-09-02T06:29:00.283Z",
+  "updatedAt": "2021-09-02T06:37:18.973Z",
   "networkType": "ethereum"
 }

@@ -3,5 +3,5 @@
 const ERC721PresetMinterPauserAutoId = artifacts.require("ERC721PresetMinterPauserAutoId");
 
 module.exports = function(deployer) {
-  deployer.deploy(ERC721PresetMinterPauserAutoId, "PERIA_","VESQ", "http://my-json-server.typicode.com/huangsuyu/nft/tokens");
+  deployer.deploy(ERC721PresetMinterPauserAutoId, "PERIA_","VESQ", "http://my-json-server.typicode.com/gkhmaladze/VESQ-BSC/tokens");
 };
