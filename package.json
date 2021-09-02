@@ -19,5 +19,8 @@
   "homepage": "https://github.com/gkhmaladze/VESQ-BSC#readme",
   "devDependencies": {
     "@openzeppelin/contracts": "^4.3.1"
+  },
+  "dependencies": {
+    "truffle": "^5.4.8"
   }
 }
