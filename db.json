@@ -1,6 +1,5 @@
 {
     "NFTs": [
-        {"id": 0, "title": "F R E A K", "image": "https://imgur.com/a/EQl2kWL"},
-        {"id": 1, "title": "Gigi", "description": "a good human", "owner": "tekura", "image": "https://imgur.com/a/oEzhIq4"}
+        {"id": 0, "title": "F R E A K", "image": "https://imgur.com/a/EQl2kWL"}
     ]
 }
