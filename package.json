@@ -1,0 +1,23 @@
+{
+  "name": "VESQ-BSC",
+  "version": "1.0.0",
+  "description": "PERIA_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkhmaladze/VESQ-BSC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkhmaladze/VESQ-BSC/issues"
+  },
+  "homepage": "https://github.com/gkhmaladze/VESQ-BSC#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.1"
+  }
+}
